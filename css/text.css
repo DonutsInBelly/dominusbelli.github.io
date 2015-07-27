@@ -1,13 +1,12 @@
 *{
 }
 
-h1 {
-    font-family: 'Amaranth', sans-serif;}
-h2 {
-    font-family: 'Amaranth', sans-serif;}
-h3 {
-    font-family: 'Amaranth', sans-serif;}
+h1, h2, h3 {
+    font-family: 'Amaranth', sans-serif;
+    color: white;}
 p {
-    font-family: 'Josefin Sans', sans-serif;}
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;}
 li {
-    font-family: 'Josefin Sans', sans-serif;}
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;}
