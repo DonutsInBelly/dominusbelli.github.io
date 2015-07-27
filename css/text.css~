@@ -1,0 +1,7 @@
+*{
+}
+
+#name {
+    font-family: 'Bitter', serif;}
+#common {
+    font-family: 'Josefin Sans', sans-serif;}
