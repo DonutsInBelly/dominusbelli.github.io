@@ -4,7 +4,8 @@
 
 h1, h2, h3 {
     font-family: 'Amaranth', sans-serif;
-    color: white;}
+    color: white;
+}
 h1.bio {
     text-align: center;
 }
