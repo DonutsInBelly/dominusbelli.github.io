@@ -1,12 +1,12 @@
 *{
-    background-color: black;
+    background-color: #0d0d0d;
 }
 
 h1, h2, h3 {
     font-family: 'Amaranth', sans-serif;
     color: white;
 }
-h1.bio {
+h2.bio {
     text-align: center;
 }
 .footer {
@@ -18,6 +18,18 @@ p {
 p.bio {
     text-align: center;
 }
+ul {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    text-align: center;
+}
 li {
     font-family: 'Josefin Sans', sans-serif;
     color: white;}
+table.hackathons {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
