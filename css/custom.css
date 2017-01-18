@@ -1,0 +1,54 @@
+body {
+  font-family: 'Josefin San', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+img {
+  vertical-align: middle;
+}
+
+#navigation {
+  display: block;
+}
+
+#intro {
+  display: block;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-color: #2d2d2d;
+  text-align: center;
+  color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  border-style: dotted;
+
+}
+
+/*
+#intro {
+  font-family: 'Amaranth';
+  background-color: #2d2d2d;
+  color: white;
+  text-align: center;
+  height: 110px;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-top: 45%;
+  padding-bottom: 45%;
+  border-style: dotted;
+  display: block;
+}*/
+#about {
+  display: block;
+  padding-top: 20%;
+  padding-bottom: 40%;
+  border-style: solid;
+
+}
