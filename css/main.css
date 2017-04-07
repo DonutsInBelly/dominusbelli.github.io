@@ -1,0 +1,29 @@
+/*
+nav {
+    float: right;
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+}
+*/
+
+.Landing {
+    background-image: linear-gradient( rgba(0,0,0,.65), rgba(0,0,0,.5) ), url("../images/landing.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: ghostwhite;
+}
+#title {
+    font-size: 48px;
+    font-family: 'Quicksand', sans-serif;
+}
+#subtitle {
+    font-size: 24px;
+    font-family: 'Karma', serif;
+}
