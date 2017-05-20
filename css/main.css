@@ -1,16 +1,28 @@
 body {
     margin: 0;
 }
-/*
+
 nav {
     float: right;
-    ul {
+    
+}
+ul.Nav {
         list-style: none;
         margin: 0;
         padding: 0;
-    }
 }
-*/
+li.Nav {
+    float: left;
+    position: relative;
+}
+a.Nav {
+    display: block;
+    padding: 0 20px;
+    line-height: 70px;
+    background: #262626;
+    color: #ffffff;
+    text-decoration: none;
+}
 
 .Landing {
     background-image: linear-gradient( rgba(0,0,0,.65), rgba(0,0,0,.5) ), url("../images/landing.jpg");
