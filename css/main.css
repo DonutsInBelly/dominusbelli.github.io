@@ -141,6 +141,39 @@ img.profile-pic {
   border-width: 15px;
 }
 
+#projects {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #703030;
+}
+.projects-container {
+  color: #7E827A;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 36px;
+  width: 800px;
+  margin: 0 auto;
+}
+.projects-container>h1 {
+  text-align: center;
+}
+.project {
+  column-count: 2;
+  column-gap: 30px;
+}
+.project-column1>img {
+  height: 50%;
+  width: 50%;
+  width: auto;
+  height: 300px;
+}
+.project-column2 {
+  width: 570px;
+}
+.project-column2>p {
+  font-family: 'Karma', serif;
+  font-size: 20px;
+}
+
 #title {
   font-size: 48px;
   font-family: 'Quicksand', sans-serif;
@@ -152,9 +185,9 @@ img.profile-pic {
   text-align: center;
 }
 #intro {
-    font-family: 'Karma', serif;
-    font-size: 20px;
-    color: #7E827A;
+  font-family: 'Karma', serif;
+  font-size: 20px;
+  color: #7E827A;
 }
 
 #nav-toggle {
