@@ -28,7 +28,6 @@ body {
 }
 
 .nav-container {
-  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -163,8 +162,7 @@ nav ul li ul li a {
     float: none;
   }
   nav ul li a {
-    border-style: solid;
-    border-width: 0.25px;
+    background: rgba(0, 0, 0, 0.80);;
     padding: 15px;
     line-height: 20px;
   }
