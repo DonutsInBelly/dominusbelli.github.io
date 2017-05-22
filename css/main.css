@@ -167,7 +167,7 @@ img.profile-pic {
   height: 300px;
 }
 .project-column2 {
-  width: 570px;
+  width: 370px;
 }
 .project-column2>p {
   font-family: 'Karma', serif;
@@ -288,6 +288,26 @@ img.profile-pic {
 
   .aboutme-container {
     width: 320px;
+  }
+  .projects {
+    width: 100%;
+  }
+  .projects-container {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+  }
+  .project {
+    column-count: 1;
+    width: auto;
+  }
+  .project-column1>img{
+    object-fit: cover;
+    max-width: 360px;
+  }
+  .project-column2 {
+    width: inherit;
   }
 }
 @media screen and (min-width: 800px) {
