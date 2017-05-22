@@ -123,7 +123,7 @@ a:hover {
   text-align: center;
   padding-top: 45px;
   padding-bottom: 45px;
-  background: #7E827A;
+  background: #2F343B;
 }
 
 .aboutme-container {
@@ -137,7 +137,7 @@ img.profile-pic {
   height: 60%;
   width: 60%;
   border-style: solid;
-  border-color: #2F343B;
+  border-color: #7E827A;
   border-width: 15px;
 }
 
@@ -154,7 +154,7 @@ img.profile-pic {
 #intro {
     font-family: 'Karma', serif;
     font-size: 20px;
-    color: #2F343B;
+    color: #7E827A;
 }
 
 #nav-toggle {
@@ -202,6 +202,7 @@ img.profile-pic {
   }
 
   .navigation {
+    width: 100vw;
   }
 
   nav {
@@ -250,6 +251,10 @@ img.profile-pic {
     color: white;
     cursor: pointer;
     position: relative;
+  }
+
+  .aboutme-container {
+    width: 320px;
   }
 }
 @media screen and (min-width: 800px) {
