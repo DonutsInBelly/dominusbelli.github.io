@@ -109,7 +109,7 @@ a:hover {
 
 #learn-more>.fa {
   position: absolute;
-  bottom: 0;
+  bottom: 5px;
   left: 50%;
   margin-left:-20px;
 }
