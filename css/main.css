@@ -31,6 +31,15 @@ body {
   margin: 0 auto;
 }
 
+.landing-soc-med {
+  padding-top: 30px;
+}
+
+.soc-med-icons {
+  margin: 25px;
+  color: white;
+}
+
 nav {
   float: right;
 }
